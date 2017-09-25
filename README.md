@@ -7,11 +7,49 @@ This is where I will organize all the L.O. information and code I come across in
 
 ## High Level Intro to Learning Outcomes
 
+It is a data-collection requirement from the (Federal) Department of Education, the State (California) and the regional accrediting body (ACCJC). The reqirements and goals and definitions are frustratingly vague. This site and code is intended to clarify some of that.
 
 
-You can use the [editor on GitHub](https://github.com/stm13/learning-outcomes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Resources
+
+### Definitions and Original Sources
+
+Try to find the original requirements here
+
+
+### Audiences
+
+Who are the stakeholders in this Learning Outcomes madness?
+
+- Accrediting board
+- State and other beaurcracy
+- School decision makers
+- Students and parents
+- Researchers and advocacy groups
+
+### Recommended Software
+
+- Canvas Plugin
+- Moodle Plugin
+- Standalone data gathering (web form and spreadsheet upload)
+- Standalone processors
+- Presentation (web) layer
+- Presentation (api) layer
+
+
+### Code and Projects here on Github
+
+This list is in-progress and these haven't been evaluated yet.
+
+- JISC's Learning analytics platform: https://github.com/jiscdev/learning-analytics
+- JISC's Data format for above: https://github.com/jiscdev/analytics-udd
+- Visualizing Curriculum mapping: https://github.com/jkaupp/curricualized
+
+
+
+
+
 
 ### Markdown
 
@@ -37,10 +75,4 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stm13/learning-outcomes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
