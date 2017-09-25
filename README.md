@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to my Learning Outcomes Repo and Directory
+
+This is where I will organize all the L.O. information and code I come across in the next year or so. The goal here is to 
+- Find all relevant documentation, and bring the *most useful* to the top
+- Find all relevant open source code, and determine what's missing.
+- Write and distribute the missing code. 
+
+## High Level Intro to Learning Outcomes
+
+
 
 You can use the [editor on GitHub](https://github.com/stm13/learning-outcomes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
