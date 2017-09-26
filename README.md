@@ -37,6 +37,9 @@ Who are the stakeholders in this Learning Outcomes madness?
 - Presentation (web) layer
 - Presentation (api) layer
 
+### Private Companies/Consultants/Vendors
+
+- [Nuventive](https://www.nuventive.com/nuventive-services) De anza college
 
 ### Code and Projects here on Github
 
